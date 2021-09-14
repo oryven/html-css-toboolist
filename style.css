@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.conteinerheader {
+    margin:20px 100px;
+}
+
+.logo, .titolo {
+    display: inline-block;
+}
+
+.titolo {
+    height: 50px;
+    line-height: 50px;
+}
