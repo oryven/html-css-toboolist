@@ -44,8 +44,8 @@ img {
     border-radius: 15px;
 }
 
-.primarow {
-    margin-top: 50px;
+.row {
+    margin: 30px 0px 10px 0px
 }
 
 .freccia {
@@ -66,5 +66,32 @@ h1 {
     border-radius: 50%;
     padding: 5px;
     color: #005c80;
-
+    margin-right: 20px;
 }
+
+.checkrow {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.editorial.goals {
+    background-color: darkviolet;
+}
+
+.editorial.Recruiting {
+    background-color: rgb(26, 197, 69);
+}
+
+.editorial.mobile {
+    background-color: #e6891f;
+}
+
+.editorial {
+    color: aliceblue;
+    background-color: rgb(62, 147, 187);
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+
