@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 * {
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container-header {
@@ -69,6 +72,10 @@ h1 {
     margin-right: 20px;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 .cross {
     font-size: 12px;
     border: 1px solid #800000;
@@ -99,7 +106,7 @@ h1 {
     color: aliceblue;
     background-color: rgb(62, 147, 187);
     padding: 10px;
-    border-radius: 20px;
+    border-radius: 15px;
     margin-left: 10px;
 }
 
