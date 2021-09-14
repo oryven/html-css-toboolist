@@ -3,21 +3,25 @@
     box-sizing: border-box;
 }
 
-.conteinerheader {
+.container-header {
     margin:20px 100px;
-}
-
-.logo, .titolo {
-    display: inline-block;
-}
-
-h1 {
     height: 50px;
-    line-height: 30px;
+}
+
+
+.titoloprincipale {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 50px;
     vertical-align: middle;
 }
 
-.conteiner {
+img {
+    height: 100%;
+    vertical-align: middle;
+}
+
+.container {
     width: 60%;
     margin: auto;
     margin-top: 50px;
@@ -52,11 +56,15 @@ h1 {
     display: inline;
 }
 
+.bottoniadd {
+    margin-top: 20px;
+}
+
 .check {
     font-size: 12px;
     border: 1px solid #005c80;
     border-radius: 50%;
-    padding: 5px 5px;
+    padding: 5px;
     color: #005c80;
 
 }
