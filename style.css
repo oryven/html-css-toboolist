@@ -64,8 +64,17 @@ h1 {
     font-size: 12px;
     border: 1px solid #005c80;
     border-radius: 50%;
-    padding: 5px;
+    padding: 4px 6px;
     color: #005c80;
+    margin-right: 20px;
+}
+
+.cross {
+    font-size: 12px;
+    border: 1px solid #800000;
+    border-radius: 50%;
+    padding: 4px 6px;
+    color: #800000;
     margin-right: 20px;
 }
 
